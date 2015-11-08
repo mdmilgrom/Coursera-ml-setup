@@ -1,1 +1,5 @@
 venv
+.ipynb_checkpoints
+*ipynb
+home_data.gl
+*csv
