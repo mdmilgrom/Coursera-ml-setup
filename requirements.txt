@@ -41,7 +41,7 @@ python-dateutil==2.4.2
 pyzmq==14.7.0
 qtconsole==4.1.0
 requests>=2.20.0
-rsa==3.1.2
+rsa>=4.1
 SFrame==1.6
 simplegeneric==0.8.1
 six==1.10.0
