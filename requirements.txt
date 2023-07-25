@@ -4,7 +4,7 @@ backports.ssl-match-hostname==3.4.0.2
 bcdoc==0.12.2
 boto==2.33.0
 botocore==0.73.0
-certifi==2022.12.7
+certifi==2023.7.22
 colorama==0.2.5
 decorator==3.4.0
 docutils==0.12
